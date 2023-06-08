@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="tab_text_1">Learning Leader</string>
+    <string name="tab_text_2">Skills IQ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_sbt">Submit</string>
+    <string name="title_activity_form_submit">form_submit</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="user_name">name</string>
+    <string name="hours_spent">hours</string>
+    <string name="country">country</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="project_name">Project Submission</string>
+    <string name="first_name"> First Name</string>
+    <string name="last_name"> Last Name</string>
+    <string name="Email"> Email Address</string>
+    <string name="Github_url"> Project on GITHUB (LINK)</string>
+    <string name="user_name2">name2</string>
+    <string name="skillIq">skillIQ</string>
+    <string name="country2">country2</string>
+
+
+</resources>
